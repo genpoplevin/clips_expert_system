@@ -38,7 +38,7 @@
 ## 📋 Пример интерактивной работы в консоли
 
 ```text
-CLIPS> (load "C:/network.clp")
+CLIPS> (load "C:\network.clp")
 
 *******
 TRUE
